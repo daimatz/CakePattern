@@ -1,3 +1,5 @@
+package user
+
 trait RealEnvironment
   extends UserServiceComponent
   with UserRepositoryComponent

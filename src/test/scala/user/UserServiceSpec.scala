@@ -1,3 +1,5 @@
+package user
+
 import org.mockito._
 import org.specs2.mutable._
 
