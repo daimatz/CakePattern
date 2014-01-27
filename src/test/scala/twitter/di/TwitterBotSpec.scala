@@ -1,4 +1,4 @@
-package twitter
+package twitter.di
 
 import org.mockito._
 import org.specs2.mutable._

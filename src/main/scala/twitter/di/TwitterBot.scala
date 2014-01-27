@@ -1,4 +1,4 @@
-package twitter
+package twitter.di
 
 case class Status(id: Int, userId: String, text: String)
 
